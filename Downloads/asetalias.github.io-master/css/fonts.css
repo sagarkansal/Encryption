@@ -1,0 +1,88 @@
+/** Fonts **/
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Quicksand|Dosis');
+.minScreenSizeOverlay .content{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+.font-10{
+    font-size: 10px;
+}
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+}
+.preloader .preloader-content .loading-text{
+    font-family: 'Dosis', sans-serif;
+    font-weight:300;
+}
+#mainHeader li>a{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300 !important;
+    font-size: 1em;
+}
+section .section-header{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 800;
+    font-size: 2.5em;
+}
+#home .slide h1{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+p.description, .servicesList li{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 300;
+    font-size: 1.4em;
+}
+.servicesList li{
+    font-size: 1.3em;
+}
+#intro .section-header{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+#intro .heading{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 300;
+}
+.eventBox .eventCTA button,
+.projectBox .projectCTA button{
+    font-family: 'Dosis', sans-serif;
+}
+.projectBox .projectDescInfoContainer{
+    font-family: 'Dosis', sans-serif;    
+}
+.eventTitle h2, .youtubeVideoTitleContainer h2,
+.projectTitle h2{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+@media all and (min-width:300px){
+    .eventTitle h2, .youtubeVideoTitleContainer h2,
+    .projectTitle h2{
+        font-size: 1.2em;
+    }
+}
+@media all and (min-width:768px){
+    .eventTitle h2, .youtubeVideoTitleContainer h2,
+    .projectTitle h2{
+        font-size: 1.4em;
+    }
+}
+#alumni .alumniDescription p{
+    font-family: 'Pacifico', cursive;
+}
+.teamBox .teamName{
+    font-size:1.7em;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+.teamBox .teamDesignation{
+    font-size:1.4em;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+}
+.contactLinksContainer li a{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 300;
+}
