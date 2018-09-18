@@ -1,0 +1,16 @@
+
+
+		Cyber Receipt		Date:29/06/2018 11:18 AM
+___________________________________________________________________________
+
+    
+    Payment Id	             : 11139443  
+    Transaction Date         : 29/06/2018 11:17 AM 
+    Debit AccountId          : 1524050012999
+    Credit AccountId         : 27970100012484
+    Transaction Amount	     : 1,000.00
+    Transaction Currency     : INR
+    Payment Date             : 29/06/2018
+    UTR Number               : UTBIE18180433251
+    ECS Tran Reference Number: SAA139312181
+ __________________________________________________________________________
