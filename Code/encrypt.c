@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<string.h>
-int main()
+void main()
 {
   int i, x;
-  char str[100];
+  string str;
   printf("\nPlease enter a string:\t");
-  scanf ("%s",&str);
-  printf("The string is : %s",str);
+  gets(str);
+
 }
